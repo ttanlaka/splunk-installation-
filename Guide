@@ -1,0 +1,8 @@
+Sudo yum update --to update current machine 
+Navigate to Opt directory and paste download link from Splunk Website (Wget -O ..........)
+Do an Ls to see dowloaded package
+Do a sudo yum install followed by package name to install
+Start  package by : sudo /opt/splunk/bin/splunk start
+Incase you downloaded a UF do : sudo /opt/splunkforwarder/bin/splunk start
+Accept License  
+Enter new user name and password, access splunk via web link. Thanks 
